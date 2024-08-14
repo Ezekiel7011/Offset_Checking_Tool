@@ -1,0 +1,14 @@
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.csproj.AssemblyReference.cache
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.Properties.Resources.resources
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.csproj.GenerateResource.cache
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.csproj.CoreCompileInputs.cache
+D:\Offset_Checking\Offset_Checking\bin\Debug\Offset_Checking.exe.config
+D:\Offset_Checking\Offset_Checking\bin\Debug\Offset_Checking.exe
+D:\Offset_Checking\Offset_Checking\bin\Debug\Offset_Checking.pdb
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.exe
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.pdb
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.Form1.resources
+D:\Offset_Checking\Offset_Checking\bin\Debug\Offset_Checking.exe.manifest
+D:\Offset_Checking\Offset_Checking\bin\Debug\Offset_Checking.application
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.exe.manifest
+D:\Offset_Checking\Offset_Checking\obj\Debug\Offset_Checking.application
