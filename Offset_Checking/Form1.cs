@@ -70,7 +70,9 @@ namespace Offset_Checking
                     (pictureBox.Height - originalImage.Height * zoom) / 2
                 );
 
-                zoomTrackBar.Value = (int)(zoom * 10); // 根據初始縮放設置 TrackBar 值
+                int newValue = (int)(zoom * 10);
+                zoomTrackBar.Value = Math.Max(zoomTrackBar.Minimum, Math.Min(newValue, zoomTrackBar.Maximum));
+
             }
         }
 
